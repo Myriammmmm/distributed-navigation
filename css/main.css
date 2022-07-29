@@ -58,8 +58,6 @@ nav a:hover {
 
 header img {
   margin: 1rem;
-  flex-grow: 1;
-  width: 1rem;
+  width: 2rem;
   order: -1;
-
 }
